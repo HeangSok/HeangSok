@@ -62,6 +62,7 @@ I'm a Fresh Graduate Developer 💻!
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blue)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=brightgreen)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=764ABC)
@@ -91,13 +92,13 @@ I'm a Fresh Graduate Developer 💻!
 
 ## 📝 Projects
 
-- [![](https://img.shields.io/badge/Code-Python-blue) -- Analytical Software 📈](https://github.com/HeangSok/project-1)
-- [![](https://img.shields.io/badge/Code-Python-blue) -- PacMan Game 🎮](https://github.com/HeangSok/project-2)
-- [![](https://img.shields.io/badge/Code-MySQL-orange) -- Database 👨🏻‍💻](https://github.com/HeangSok/project-3)
+- [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blue) -- Analytical Software 📈](https://github.com/HeangSok/project-1)
+- [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blue) -- PacMan Game 🎮](https://github.com/HeangSok/project-2)
+- [![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=764ABC) -- Database 👨🏻‍💻](https://github.com/HeangSok/project-3)
 - [![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) -- My Note 📝](https://github.com/HeangSok/MyFirstReactPoject)
 - [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E) -- Guess My Number 🎮](https://heangsok.github.io/Guess-My-Number-/)
-- [![](https://img.shields.io/badge/Code-Swift-red) -- CheckList App ✅](https://github.com/HeangSok/ChecklistApp)
-- [![](https://img.shields.io/badge/Code-Swift-red) -- FavouritePlaces App 📍](https://github.com/HeangSok/FavouritePlaces)
+- [![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&color=E34F26) -- CheckList App ✅](https://github.com/HeangSok/ChecklistApp)
+- [![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&color=E34F26) -- FavouritePlaces App 📍](https://github.com/HeangSok/FavouritePlaces)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeangSok&layout=compact)
 
