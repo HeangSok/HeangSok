@@ -104,5 +104,6 @@ I'm a Fresh Graduate Developer 💻!
 - [![](https://img.shields.io/badge/Code-Swift-red) -- CheckList App ✅](https://github.com/HeangSok/ChecklistApp)
 - [![](https://img.shields.io/badge/Code-Swift-red) -- FavouritePlaces App 📍](https://github.com/HeangSok/FavouritePlaces)
 - [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E) -- Modal Window 🖥](https://heangsok.github.io/Modal-Window/)
+- [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E) -- Pick Game 🎮](https://heangsok.github.io/Pick-Game/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeangSok&layout=compact)
