@@ -16,14 +16,9 @@ I'm a Fresh Graduate Developer 💻!
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/heang-sok-07848420a/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Heang Sok | LinkedIn" width="21px"/></a>
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-<a href="https://www.linkedin.com/in/heang-sok-07848420a/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-
-<a href="https://www.linkedin.com/in/heang-sok-07848420a/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
-</br>
-
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heang-sok-07848420a/)
 
 ## 🔭 I'm currently working on
 
