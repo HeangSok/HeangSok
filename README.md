@@ -12,6 +12,11 @@ Hi there, I'm <a href="https://heangsok.github.io/myFirstWeb/project.html" targe
 I'm a Fresh Graduate Developer 💻!
 </h2> 
 
+<p> Given my BA in Accounting, I always thought my dream was to be an accountant in a big company like Kampuchea Tela | Cambodia's Leading Oil and Gas Company, sipping my morning Cappuccino and starting my day with financial statements and numbers. I loved my job, and I woke up every day basically thinking about how I could do it better. Things changed when I enrolled in a Python Bootcamp. At first, I thought I would do it as an amateur, but I could not get enough of it. Since then, computer science is like magic to me, and at the end of the day, I made up my mind to pursue my master’s degree in computer science here in Australia as an international student.
+
+Like other junior software developers, I am passionate in coding. I usually lock myself in the room and code all day. Coding can be stressful and exhausted sometimes because I do not know why it does not compile no matter what I do, but it gives an amazing and wonderful feeling each time I can solve my coding problems. 
+</p>
+
 
 
 ### 🤝 Connect with me:
@@ -40,7 +45,7 @@ I'm a Fresh Graduate Developer 💻!
 | *SecureStack* | Back-End Dev | Intern | Mar-Jun 2022 | **Mr. Abedin Poonawala** </br> *abedinpoonawala@gmail.com* |
 | *Red Cross Australia* | Telecross | Volunteer | Mar 2021 - Present | **Ms. Christine Cornelius** </br> *ccornelius@redcross.org.au* |
 | *Help My Family Business* | Saleperson & Tax Accountant | Full-Time | Jul 2015 - Oct 2019 | **Mr. Ung Sovan** </br> No Email |
-| *Tela Petroleum* | Tax Accountant | Full-Time | Sep 2011 - Jul 2015 | **Mrs. Sophea Ma** </br> *sophea_ma@yahoo.com* |
+| *Kampuchea Tela* | Tax Accountant | Full-Time | Sep 2011 - Jul 2015 | **Mrs. Sophea Ma** </br> *sophea_ma@yahoo.com* |
 
 ## 📐 Education
 
