@@ -53,7 +53,7 @@ Like other junior software developers, I am passionate in coding. I usually lock
 | ------------- | ------------- | ------------- | ------------- |
 | Master in Information Technology (MIT)| Griffith University  | ![](https://img.shields.io/badge/-Australia-red) | 2020-2022 |
 | Masters Qualifying Program (MQP) | Griffith College | ![](https://img.shields.io/badge/-Australia-red) | Feb 2020 – Jun 2020 |
-| Bachelor in Accounting (BA)| Vanda Institue | ![](https://img.shields.io/badge/-Cambodia-blue) |2009-2011 |
+| Bachelor in Accounting (BA)| Vanda Institute | ![](https://img.shields.io/badge/-Cambodia-blue) |2009-2011 |
 
 </br>
 <a href="https://github.com/HeangSok/About-Me/tree/main/Certificate" target="_blank">👉 Certificates</a>
