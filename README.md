@@ -5,7 +5,7 @@
 
 
 <h3 align="center">
-Hi there, I'm <a href="https://heangsok.github.io/myFirstWeb/project.html" target="_blank">Heang</a> 👋
+Hi there, I'm <a href="https://github.com/HeangSok/About-Me" target="_blank">Heang</a> 👋
 </h3>
 
 <h2 align="center">
@@ -42,9 +42,9 @@ Like other junior software developers, I am passionate in coding. I usually lock
 
 | **Organisation** | **Position** | **Type** | **Year** | Reference |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| *SecureStack* | Back-End Dev | Intern | Mar-Jun 2022 | **Mr. Abedin Poonawala** </br> *abedinpoonawala@gmail.com* |
+| *SecureStack* | Back-End Dev | Intern | Mar-Jun 2022 | **Mr. Abedin Poonawala** </br> *abedinpoonawala@gmail.com* </br> **Mr. Benjamin Giovannetti** </br> *benjamingiovannetti@gmail.com*|
 | *Red Cross Australia* | Telecross | Volunteer | Mar 2021 - Present | **Ms. Christine Cornelius** </br> *ccornelius@redcross.org.au* |
-| *Help My Family Business* | Saleperson & Tax Accountant | Full-Time | Jul 2015 - Oct 2019 | **Mr. Ung Sovan** </br> No Email |
+| *Help My Family Business* | Saleperson & Tax Accountant | Full-Time | Jul 2015 - Oct 2019 | **Mr. Ung Sovan** </br> ungsovan@yahoo.com |
 | *Kampuchea Tela* | Tax Accountant | Full-Time | Sep 2011 - Jul 2015 | **Mrs. Sophea Ma** </br> *sophea_ma@yahoo.com* |
 
 ## 📐 Education
@@ -56,8 +56,9 @@ Like other junior software developers, I am passionate in coding. I usually lock
 | Bachelor in Accounting (BA)| Vanda Institute | ![](https://img.shields.io/badge/-Cambodia-blue) |2009-2011 |
 
 </br>
-<a href="https://github.com/HeangSok/About-Me/tree/main/Certificate" target="_blank">👉 Certificates</a>
 
+## 📚 Certificates
+[👉 https://github.com/HeangSok/About-Me/tree/main/Certificate](https://github.com/HeangSok/About-Me/tree/main/Certificate)
 
 
 ## 💼 Technical Skills
@@ -94,7 +95,7 @@ Like other junior software developers, I am passionate in coding. I usually lock
 ![](https://img.shields.io/badge/Soft%20Skill-Problem%20Solving-orange)
 ![](https://img.shields.io/badge/Soft%20Skill-Flexible%20%26%20Adaptable%20-blue)
 
-## 📝 Projects
+## [📝 Projects](https://github.com/HeangSok?tab=repositories)
 
 - [![](https://img.shields.io/badge/Code-Python-blue) -- Analytical Software 📈](https://github.com/HeangSok/project-1)
 - [![](https://img.shields.io/badge/Code-Python-blue) -- PacMan Game 🎮](https://github.com/HeangSok/project-2)
