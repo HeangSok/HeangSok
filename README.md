@@ -110,6 +110,7 @@ Like other junior software developers, I am passionate in coding. I usually lock
 - [![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26) ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6) -- Omnifood 🍏](https://heangsok.github.io/Omnifood/)
 - [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blue) ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&color=black)-- MyFirstDjangoProject 🐍](https://github.com/HeangSok/Django-with-DennisIvy.git)
 - [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E) -- Bankist 💹](https://heangsok.github.io/Bankist/)
+- [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E) -- NewBankist 🧑‍💻](https://heangsok.github.io/NewBankist/)
 
 
 
