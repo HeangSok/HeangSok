@@ -3,53 +3,46 @@
 
 </p>
 
-
 <h3 align="center">
-Hi there, I'm <a href="https://github.com/HeangSok/About-Me" target="_blank">Heang</a> 👋
+Curriculum Vitae 
 </h3>
 
 <h2 align="center">
-I'm a Fresh Graduate Developer 💻!
+Hi there, I'm <a href="https://github.com/HeangSok/About-Me" target="_blank">Heang</a>. I'm a Fresh Graduate Developer 💻!
 </h2> 
 
-<p> Given my BA in Accounting, I always thought my dream was to be an accountant in a big company like Kampuchea Tela | Cambodia's Leading Oil and Gas Company, sipping my morning Cappuccino and starting my day with financial statements and numbers. I loved my job, and I woke up every day basically thinking about how I could do it better. Things changed when I enrolled in a Python Bootcamp. At first, I thought I would do it as an amateur, but I could not get enough of it. Since then, computer science is like magic to me, and at the end of the day, I made up my mind to pursue my master’s degree in computer science here in Australia as an international student.
+<p align="justify"> Given my bachelor degree in Accounting, I always thought my dream was to be an accountant in a big company like Kampuchea Tela | Cambodia's Leading Oil and Gas Company, sipping my morning coffee and starting my day with financial statements and numbers. I loved my job, and I woke up every day basically thinking about how I could do it better. Things changed when I enrolled in a Python Bootcamp. At first, I thought I would do it as an amateur, but I could not get enough of it. Since then, computer science is like magic to me, and at the end of the day, I made up my mind to pursue my master’s degree in computer science here in Australia as an international student.
 
-Like other junior software developers, I am passionate in coding. I usually lock myself in the room and code all day. Coding can be stressful and exhausted sometimes because I do not know why it does not compile no matter what I do, but it gives an amazing and wonderful feeling each time I can solve my coding problems. 
 </p>
 
 
 
 ### 🤝 Connect with me:
 
-💬 If you have any question/feedback, please do not hesitate to reach out to me!
+💬 If you have any question/feedback, please do not hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/heang-sok-07848420a/)!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heang-sok-07848420a/)
 
 ## 🔭 I'm currently working on
 
-- Light-weight Penetration Testing Tools (Python)
-- Todo List (React)
-- Mobile App (SwiftUI)
+- Light-weight Penetration Testing Tools (JavaScript)
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
-- 📱 SwiftUI
 - Node.js
-- React.js 
 
 ## 👨🏻‍💻 Work Experience
 
 | **Organisation** | **Position** | **Type** | **Year** | Reference |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| *SecureStack* | Back-End Dev | Intern | Mar-Jun 2022 | **Mr. Abedin Poonawala** </br> *abedinpoonawala@gmail.com* </br> **Mr. Benjamin Giovannetti** </br> *benjamingiovannetti@gmail.com*|
+| *SecureStack* | Back-End Dev | Intern | Mar-Jun 2022 | **Mr. Abedin Poonawala** </br> *abedinpoonawala@gmail.com*|
 | *Red Cross Australia* | Telecross | Volunteer | Mar 2021 - Present | **Ms. Christine Cornelius** </br> *ccornelius@redcross.org.au* |
 | *Help My Family Business* | Saleperson & Tax Accountant | Full-Time | Jul 2015 - Oct 2019 | **Mr. Ung Sovan** </br> ungsovan@yahoo.com |
 | *Kampuchea Tela* | Tax Accountant | Full-Time | Sep 2011 - Jul 2015 | **Mrs. Sophea Ma** </br> *sophea_ma@yahoo.com* |
 
 ## 📐 Education
 
-| **Major** | **Univerisity** | **Tag** | **Year** |
+| **Major** | **Univerisity** | **Country** | **Year** |
 | ------------- | ------------- | ------------- | ------------- |
 | Master in Information Technology (MIT)| Griffith University  | ![](https://img.shields.io/badge/-Australia-red) | 2020-2022 |
 | Masters Qualifying Program (MQP) | Griffith College | ![](https://img.shields.io/badge/-Australia-red) | Feb 2020 – Jun 2020 |
@@ -111,7 +104,5 @@ Like other junior software developers, I am passionate in coding. I usually lock
 - [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blue) ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&color=black)-- MyFirstDjangoProject 🐍](https://github.com/HeangSok/Django-with-DennisIvy.git)
 - [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E) -- Bankist 💹](https://heangsok.github.io/Bankist/)
 - [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E) -- NewBankist 🧑‍💻](https://heangsok.github.io/NewBankist/)
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeangSok&layout=compact)
